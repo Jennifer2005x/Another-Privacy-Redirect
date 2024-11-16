@@ -22,7 +22,7 @@
         ['www.youtube.com', 'inv.nadeko.net'],
         ['youtube.com', 'inv.nadeko.net'],
         ['m.youtube.com', 'inv.nadeko.net'],
-        ['music.youtube.com', 'music.adminforge.de'],
+        ['music.youtube.com', 'inv.nadeko.net'],
         ['twitter.com', 'xcancel.com'],
         ['x.com', 'xcancel.com'],
         ['www.reddit.com', 'l.opnxng.com'],
