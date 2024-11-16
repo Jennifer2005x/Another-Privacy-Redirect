@@ -2,6 +2,8 @@
 
 A userscript that automatically redirects popular websites to privacy-friendly frontend alternatives.
 
+Based on the extension [Libredirect](https://github.com/libredirect/browser_extension)
+
 ## 🛡️ Features
 
 - Automatic redirection to private frontends
@@ -15,7 +17,7 @@ A userscript that automatically redirects popular websites to privacy-friendly f
 
 ## 📦 Installation
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser or use [Cromite](https://github.com/uazo/cromite) in android
+1. Install [Cromite](https://github.com/uazo/cromite) in android
 2. [Click here to install](../../raw/main/another-privacy-redirect.js)
    
 ## 🔒 Supported Frontends
