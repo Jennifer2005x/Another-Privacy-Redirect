@@ -1,3 +1,5 @@
+![fondo oscuro](test.png)
+
 # Another Privacy Redirect
 
 A userscript that automatically redirects popular websites to privacy-friendly frontend alternatives.
