@@ -4,7 +4,7 @@
 
 A userscript that automatically redirects popular websites to privacy-friendly frontend alternatives.
 
-Based on the extension [Libredirect](https://github.com/libredirect/browser_extension)
+Based on the extension [LibRedirect](https://github.com/libredirect/browser_extension)
 
 ## 🔧 Features
 
