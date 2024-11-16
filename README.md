@@ -24,7 +24,7 @@ Based on the extension [Libredirect](https://github.com/libredirect/browser_exte
 
 | Platform   | Private Frontend |
 |------------|-----------------|
-| YouTube & YT Music   | inv.nadeko.net  |
+| YouTube - YT Music   | inv.nadeko.net  |
 | Twitter/X  | xcancel.com     |
 | Reddit     | l.opnxng.com    |
 | Instagram  | ig.opnxng.com   |
