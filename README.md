@@ -34,7 +34,7 @@ Based on the extension [Libredirect](https://github.com/libredirect/browser_exte
 
 Contributions are welcome! Feel free to:
 - Report bugs
-- Suggest new features
+- Suggest missing links
 - Propose new private frontends
 
 ## 📜 License
