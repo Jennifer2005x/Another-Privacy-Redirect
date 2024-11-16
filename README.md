@@ -1,4 +1,4 @@
-![fondo oscuro](test.png)
+![fondo oscuro](banner.png)
 
 # Another Privacy Redirect
 
