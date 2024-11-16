@@ -15,7 +15,7 @@ Based on the extension [Libredirect](https://github.com/libredirect/browser_exte
   - TikTok
 - No tracking, no ads, more privacy
 
-## 🗂️ Installation
+## 📦 Installation
 
 1. Install [Cromite](https://github.com/uazo/cromite) in android
 2. [Click here to install](https://github.com/Jennifer2005x/Another-Privacy-Redirect/releases/download/releases/another-privacy-redirect.js)
