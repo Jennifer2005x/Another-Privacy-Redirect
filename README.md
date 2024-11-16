@@ -8,7 +8,7 @@ Based on the extension [Libredirect](https://github.com/libredirect/browser_exte
 
 - Automatic redirection to private frontends
 - Support for multiple platforms:
-  - YouTube
+  - YouTube & YT Music
   - Twitter/X
   - Reddit
   - Instagram
@@ -24,7 +24,7 @@ Based on the extension [Libredirect](https://github.com/libredirect/browser_exte
 
 | Platform   | Private Frontend |
 |------------|-----------------|
-| YouTube    | inv.nadeko.net  |
+| YouTube & YT Music   | inv.nadeko.net  |
 | Twitter/X  | xcancel.com     |
 | Reddit     | l.opnxng.com    |
 | Instagram  | ig.opnxng.com   |
