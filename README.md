@@ -16,7 +16,7 @@ A userscript that automatically redirects popular websites to privacy-friendly f
 ## 📦 Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser or use [Cromite](https://github.com/uazo/cromite) in android
-2. [Click here to install](../../raw/main/privacy-redirect.user.js)
+2. [Click here to install](../../raw/main/another-privacy-redirect.js)
    
 ## 🔒 Supported Frontends
 
