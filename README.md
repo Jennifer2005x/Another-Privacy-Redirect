@@ -39,4 +39,4 @@ Contributions are welcome! Feel free to:
 
 ## 📜 License
 
-This project is under MIT License. See the [LICENSE](LICENSE) file for details.
+This project is under GPL-3 License. See the [LICENSE](LICENSE) file for details.
