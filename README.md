@@ -1,4 +1,5 @@
-![banner](https://github.com/user-attachments/assets/d03ca761-da7c-43cf-9d35-34a3cdcce4a9)
+![banner](https://github.com/user-attachments/assets/d37270b9-1888-4bbd-abc1-91b60e970a55)
+
 # GreaseMonkey Scripts
 
 Greasemonkey style scripts dedicated to the [Cromite](https://github.com/uazo/cromite) browser for Android, which helps in user privacy and convenience
