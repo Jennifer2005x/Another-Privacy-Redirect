@@ -28,11 +28,16 @@ A userscript that automatically redirects popular websites to privacy-friendly f
 | TikTok     | offtiktok.com   |
 
 ## ⬆️ BottomUp
+
 A simple script that creates a 'Back to Top' button. When the user scrolls down the webpage, a button appears in the bottom-right corner. If the user clicks this button, it smoothly scrolls the page back to the top. The button automatically hides when the user is at the top of the page.
 
 ## 📣 FeedCopy
 
+A script that creates a fixed button in the bottom-left corner of the webpage for copying RSS feed URLs. The button has an orange background (the traditional RSS color) and includes an clipboard icon. When clicked, it automatically finds the RSS feed URL from the page's metadata and copies it to the user's clipboard.
+
 ## 🌐 LittleTranslate
+
+A translation button that sits in the bottom-right corner of the webpage. It uses Google's Translate API to provide instant translation capabilities.
 
 ## 📦 Installation
 
