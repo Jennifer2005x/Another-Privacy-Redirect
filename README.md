@@ -2,12 +2,10 @@
 # GreaseMonkey Scripts
 **Introduction**
 - 🛡️ [Another Privacy Redirect](https://github.com/Jennifer2005x/GreaseMonkey-Scripts#-another-privacy-redirect)
--
--
--
-- 
-- 
-
+- ⬆️ BottomUp
+- 📣 FeedCopy
+- 🌐 LittleTranslate
+- 📦 Installation
 
 ## 🛡️ Another Privacy Redirect
 
