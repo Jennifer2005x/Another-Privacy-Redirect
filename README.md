@@ -28,6 +28,7 @@ A userscript that automatically redirects popular websites to privacy-friendly f
 | TikTok     | offtiktok.com   |
 
 ## ⬆️ BottomUp
+A simple script that creates a 'Back to Top' button. When the user scrolls down the webpage, a button appears in the bottom-right corner. If the user clicks this button, it smoothly scrolls the page back to the top. The button automatically hides when the user is at the top of the page.
 
 ## 📣 FeedCopy
 
