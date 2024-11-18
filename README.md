@@ -1,7 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/d03ca761-da7c-43cf-9d35-34a3cdcce4a9)
 # GreaseMonkey Scripts
-Introduction
-- 
+**Introduction**
+- 🛡️ [Another Privacy Redirect](https://github.com/Jennifer2005x/GreaseMonkey-Scripts#-another-privacy-redirect)
 -
 -
 -
@@ -9,7 +9,7 @@ Introduction
 - 
 
 
-## 🔧 Another Privacy Redirect
+## 🛡️ Another Privacy Redirect
 
 - Based on the extension [LibRedirect](https://github.com/libredirect/browser_extension)
 - Automatic redirection to private frontends
