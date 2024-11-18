@@ -4,9 +4,9 @@
 Greasemonkey style scripts dedicated to the [Cromite](https://github.com/uazo/cromite) browser for Android, which helps in user privacy and convenience
 
 - 🛡️ [Another Privacy Redirect](https://github.com/Jennifer2005x/GreaseMonkey-Scripts#%EF%B8%8F-another-privacy-redirect)
-- ⬆️ BottomUp
-- 📣 FeedCopy
-- 🌐 LittleTranslate
+- ⬆️ [BottomUp](https://github.com/Jennifer2005x/GreaseMonkey-Scripts#%EF%B8%8F-bottomup)
+- 📣 [FeedCopy](https://github.com/Jennifer2005x/GreaseMonkey-Scripts#-feedcopy)
+- 🌐 [LittleTranslate](https://github.com/Jennifer2005x/GreaseMonkey-Scripts#-littletranslate)
 - 📦 [Installation](https://github.com/Jennifer2005x/GreaseMonkey-Scripts#-installation)
 - 🤝 [Contributing](https://github.com/Jennifer2005x/GreaseMonkey-Scripts#-Contributing)
 
