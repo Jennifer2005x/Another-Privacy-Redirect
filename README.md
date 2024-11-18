@@ -1,5 +1,5 @@
 ![banner](https://github.com/user-attachments/assets/d03ca761-da7c-43cf-9d35-34a3cdcce4a9)
-# Another Privacy Redirect
+# GreaseMonkey Scripts
 
 A userscript that automatically redirects popular websites to privacy-friendly frontend alternatives.
 
