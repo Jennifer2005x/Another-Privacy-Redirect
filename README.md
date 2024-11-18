@@ -27,6 +27,11 @@ A userscript that automatically redirects popular websites to privacy-friendly f
 | Instagram  | ig.opnxng.com   |
 | TikTok     | offtiktok.com   |
 
+## ⬆️ BottomUp
+
+## 📣 FeedCopy
+
+## 🌐 LittleTranslate
 
 ## 📦 Installation
 
