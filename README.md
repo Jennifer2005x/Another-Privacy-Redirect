@@ -43,7 +43,7 @@ A translation button that sits in the bottom-right corner of the webpage. It use
 
 1. Install [Cromite](https://github.com/uazo/cromite/releases) in Android
 2. [Choose your script](https://github.com/Jennifer2005x/GreaseMonkey-Scripts/releases)
-4. Click in Settings > User Scripts > Activate User Scripts > Add Script > Enjoy :)
+3. Click in Settings > User Scripts > Activate User Scripts > Add Script > Enjoy :)
    
 
 ## 🤝 Contributing
