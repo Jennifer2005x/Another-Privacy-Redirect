@@ -31,7 +31,7 @@ A userscript that automatically redirects popular websites to privacy-friendly f
 ## 📦 Installation
 
 1. Install [Cromite](https://github.com/uazo/cromite/releases) in Android
-2. Choose your script
+2. [Choose your script](https://github.com/Jennifer2005x/GreaseMonkey-Scripts/releases)
 4. Click in Settings > User Scripts > Activate User Scripts > Add Script > Enjoy :)
    
 
