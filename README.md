@@ -1,6 +1,8 @@
 ![banner](https://github.com/user-attachments/assets/d03ca761-da7c-43cf-9d35-34a3cdcce4a9)
 # GreaseMonkey Scripts
-**Introduction**
+
+Greasemonkey style scripts dedicated to the [Cromite](https://github.com/uazo/cromite) browser for Android, which helps in user privacy and convenience
+
 - 🛡️ [Another Privacy Redirect](https://github.com/Jennifer2005x/GreaseMonkey-Scripts#-another-privacy-redirect)
 - ⬆️ BottomUp
 - 📣 FeedCopy
@@ -26,7 +28,7 @@
 
 ## 📦 Installation
 
-1. Install [Cromite](https://github.com/uazo/cromite) in Android
+1. Install [Cromite](https://github.com/uazo/cromite/releases) in Android
 2. Choose your script
 4. Click in Settings > User Scripts > Activate User Scripts > Add Script > Enjoy :)
    
