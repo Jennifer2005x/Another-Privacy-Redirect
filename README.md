@@ -1,28 +1,19 @@
 ![banner](https://github.com/user-attachments/assets/d03ca761-da7c-43cf-9d35-34a3cdcce4a9)
 # GreaseMonkey Scripts
+Introduction
+- 
+-
+-
+-
+- 
+- 
 
-A userscript that automatically redirects popular websites to privacy-friendly frontend alternatives.
 
-Based on the extension [LibRedirect](https://github.com/libredirect/browser_extension)
+## 🔧 Another Privacy Redirect
 
-## 🔧 Features
-
+- Based on the extension [LibRedirect](https://github.com/libredirect/browser_extension)
 - Automatic redirection to private frontends
-- Support for multiple platforms:
-  - YouTube & YT Music
-  - Twitter/X
-  - Reddit
-  - Instagram
-  - TikTok
-- No tracking, no ads, more privacy
-
-## 📦 Installation
-
-1. Install [Cromite](https://github.com/uazo/cromite) in Android
-2. Choose your script
-4. Click in Settings > User Scripts > Activate User Scripts > Add Script > Enjoy :)
-   
-## 🔒 Supported Frontends
+- Supported Frontends:
 
 | Platform   | Private Frontend |
 |------------|-----------------|
@@ -31,6 +22,15 @@ Based on the extension [LibRedirect](https://github.com/libredirect/browser_exte
 | Reddit     | l.opnxng.com    |
 | Instagram  | ig.opnxng.com   |
 | TikTok     | offtiktok.com   |
+- No tracking, no ads, more privacy
+
+
+## 📦 Installation
+
+1. Install [Cromite](https://github.com/uazo/cromite) in Android
+2. Choose your script
+4. Click in Settings > User Scripts > Activate User Scripts > Add Script > Enjoy :)
+   
 
 ## 🤝 Contributing
 
