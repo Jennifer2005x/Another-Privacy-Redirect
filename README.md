@@ -19,8 +19,8 @@ Based on the extension [LibRedirect](https://github.com/libredirect/browser_exte
 ## 📦 Installation
 
 1. Install [Cromite](https://github.com/uazo/cromite) in Android
-2. [Click here to install](https://github.com/Jennifer2005x/Another-Privacy-Redirect/releases/download/releases/another-privacy-redirect.js)
-3. Click in Settings > User Scripts > Activate User Scripts > Add Script > Enjoy :)
+2. Choose your script
+4. Click in Settings > User Scripts > Activate User Scripts > Add Script > Enjoy :)
    
 ## 🔒 Supported Frontends
 
