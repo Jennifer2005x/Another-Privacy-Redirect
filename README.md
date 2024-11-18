@@ -16,6 +16,7 @@ A userscript that automatically redirects popular websites to privacy-friendly f
 
 - Based on the extension [LibRedirect](https://github.com/libredirect/browser_extension)
 - Automatic redirection to private frontends
+- No tracking, no ads, more privacy
 - Supported Frontends:
 
 | Platform   | Private Frontend |
@@ -25,7 +26,6 @@ A userscript that automatically redirects popular websites to privacy-friendly f
 | Reddit     | l.opnxng.com    |
 | Instagram  | ig.opnxng.com   |
 | TikTok     | offtiktok.com   |
-- No tracking, no ads, more privacy
 
 
 ## 📦 Installation
