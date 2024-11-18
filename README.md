@@ -5,7 +5,8 @@
 - ⬆️ BottomUp
 - 📣 FeedCopy
 - 🌐 LittleTranslate
-- 📦 Installation
+- 📦 [Installation](https://github.com/Jennifer2005x/GreaseMonkey-Scripts#-installation)
+- 🤝 [Contributing](https://github.com/Jennifer2005x/GreaseMonkey-Scripts#-Contributing)
 
 ## 🛡️ Another Privacy Redirect
 
