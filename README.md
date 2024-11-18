@@ -12,6 +12,8 @@ Greasemonkey style scripts dedicated to the [Cromite](https://github.com/uazo/cr
 
 ## 🛡️ Another Privacy Redirect
 
+A userscript that automatically redirects popular websites to privacy-friendly frontend alternatives.
+
 - Based on the extension [LibRedirect](https://github.com/libredirect/browser_extension)
 - Automatic redirection to private frontends
 - Supported Frontends:
